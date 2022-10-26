@@ -5,7 +5,7 @@
 body {
   margin: 0;
   padding: 0;
-  background: #000;
+  background: #2c3e50;
 }
 
 .calculator-grid {
@@ -13,7 +13,7 @@ body {
   justify-content: center;
   margin-top: 3rem;
   grid-template-columns: repeat(4, 6rem);
-  grid-template-rows: minmax(7.3rem, auto) repeat(5, 6rem);
+  grid-template-rows: minmax(7.3rem, auto) repeat(5, 5rem);
 }
 
 .calculator-grid > button {
@@ -21,19 +21,19 @@ body {
   outline: none;
   font-size: 2rem;
   border: 1px solid white;
-  background-color: rgba(255, 255, 255, 0.75);
+  background-color: #d6dbdf;
 }
 
-:is(.orange:hover, .orange:focus) {
-  background-color: rgba(255, 255, 255, 0.92) !important;
+:is(.sign:hover, .sign:focus) {
+  background-color: #edbb99 !important;
 }
 
 :is(.calculator-grid > button:hover, .calculator-grid > button:focus) {
-  background-color: rgba(255, 255, 255, 0.92);
+  background-color: #fff;
 }
 
-.orange {
-  background-color: rgb(255 113 0 / 75%) !important;
+.sign {
+  background-color: #d35400 !important;
 }
 
 .span_two {
@@ -42,7 +42,7 @@ body {
 
 .output {
   grid-column: 1 / -1;
-  background-color: rgb(133 133 133 / 54%);
+  background-color: #566573;
   display: flex;
   align-items: flex-end;
   justify-content: flex-end;
