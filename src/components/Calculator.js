@@ -1,5 +1,5 @@
 import React from 'react';
-
+import '../index.css';
 
 // eslint-disable-next-line react/prefer-stateless-function
 export default class Calculator extends React.Component {
