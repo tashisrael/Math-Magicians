@@ -10,7 +10,8 @@ body {
 
 .calculator-grid {
   display: grid;
-  justify-content: center;
+  justify-content: right;
+  margin-right: 4rem;
   margin-top: 3rem;
   grid-template-columns: repeat(4, 6rem);
   grid-template-rows: minmax(7.3rem, auto) repeat(5, 5rem);
