@@ -30,13 +30,18 @@ To experience a Demo on your local machine run:
 npm start
 ```
 
-## Author
+## Author 1
 
 👤 **Tashobya Israel**
 
 - GitHub: [@githubhandle](https://github.com/tashisrael)
 - Twitter: [@twitterhandle](https://twitter.com/tashisrael)
 - Linkedin: [@linkedinhandle](https://www.linkedin.com/in/tashobya-israel-6a66b0181/l)
+
+👤 **Okonjo Gilbert**
+
+- GitHub: [@githubhandle](https://github.com/OpondoG)
+- Linkedin: [@linkedinhandle](https://www.linkedin.com/in/gilbert-okonjo-2081331b9/)
 
 ## 🤝 Contributing
 
