@@ -11,7 +11,7 @@
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://calculator-app-by-tash.netlify.app/)
 
 
 ## Getting Started
